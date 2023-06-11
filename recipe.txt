@@ -5,4 +5,7 @@ kheer
 pasta
 chilli potato
 
+beans
+pizza
+done with my changes 
 thankyou
